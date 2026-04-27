@@ -53,6 +53,5 @@ Student Skills Competition 2023
 Contact
 -------
 
-* Email: your@email.com
-* LinkedIn: linkedin.com/in/yourhandle
-* GitHub: github.com/andiahmadysp
+* Email: andiahmadyusup@gmail.com
+* LinkedIn: linkedin.com/in/andi-ahmad-yusup
